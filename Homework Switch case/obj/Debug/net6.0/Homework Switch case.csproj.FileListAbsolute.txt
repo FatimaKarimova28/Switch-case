@@ -1,0 +1,15 @@
+C:\Users\ibrah\source\repos\Homework Switch case\Homework Switch case\bin\Debug\net6.0\Homework Switch case.exe
+C:\Users\ibrah\source\repos\Homework Switch case\Homework Switch case\bin\Debug\net6.0\Homework Switch case.deps.json
+C:\Users\ibrah\source\repos\Homework Switch case\Homework Switch case\bin\Debug\net6.0\Homework Switch case.runtimeconfig.json
+C:\Users\ibrah\source\repos\Homework Switch case\Homework Switch case\bin\Debug\net6.0\Homework Switch case.dll
+C:\Users\ibrah\source\repos\Homework Switch case\Homework Switch case\bin\Debug\net6.0\Homework Switch case.pdb
+C:\Users\ibrah\source\repos\Homework Switch case\Homework Switch case\obj\Debug\net6.0\Homework Switch case.csproj.AssemblyReference.cache
+C:\Users\ibrah\source\repos\Homework Switch case\Homework Switch case\obj\Debug\net6.0\Homework Switch case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\source\repos\Homework Switch case\Homework Switch case\obj\Debug\net6.0\Homework Switch case.AssemblyInfoInputs.cache
+C:\Users\ibrah\source\repos\Homework Switch case\Homework Switch case\obj\Debug\net6.0\Homework Switch case.AssemblyInfo.cs
+C:\Users\ibrah\source\repos\Homework Switch case\Homework Switch case\obj\Debug\net6.0\Homework Switch case.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\Homework Switch case\Homework Switch case\obj\Debug\net6.0\Homework Switch case.dll
+C:\Users\ibrah\source\repos\Homework Switch case\Homework Switch case\obj\Debug\net6.0\refint\Homework Switch case.dll
+C:\Users\ibrah\source\repos\Homework Switch case\Homework Switch case\obj\Debug\net6.0\Homework Switch case.pdb
+C:\Users\ibrah\source\repos\Homework Switch case\Homework Switch case\obj\Debug\net6.0\Homework Switch case.genruntimeconfig.cache
+C:\Users\ibrah\source\repos\Homework Switch case\Homework Switch case\obj\Debug\net6.0\ref\Homework Switch case.dll
